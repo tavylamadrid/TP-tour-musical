@@ -1,0 +1,33 @@
+[
+	{
+		"nombre": "Usuario1",
+		"historial_eventos": [1,2,3],
+		"id": 1
+	},
+	{
+		"nombre": "Usuario2",
+		"historial_eventos": [4,5,6],
+		"id": 2
+	},
+	{
+		"nombre": "Usuario3",
+		"historial_eventos": [1,2,3],
+		"id": 3
+	},
+	{
+		"nombre": "Usuario4",
+		"historial_eventos": [4,5,6],
+		"id": 4
+	},
+	{
+		"nombre": "Usuario5",
+		"historial_eventos": [1,2,3],
+		"id": 5
+	},
+	{
+		"nombre": "Usuario6",
+		"historial_eventos": [4,5,6],
+		"id": 6
+	}
+]
+	

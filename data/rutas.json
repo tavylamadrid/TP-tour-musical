@@ -1,0 +1,33 @@
+[
+	{
+		"nombre": "Ruta1",
+		"destinos": [1,2,3],
+		"id": 1
+	},
+	{
+		"nombre": "Ruta2",
+		"destinos": [4,5,6],
+		"id": 2
+	},
+	{
+		"nombre": "Ruta3",
+		"destinos": [1,2,3],
+		"id": 3
+	},
+	{
+		"nombre": "Ruta4",
+		"destinos": [4,5,6],
+		"id": 4
+	},
+	{
+		"nombre": "Ruta5",
+		"destinos": [1,2,3],
+		"id": 5
+	},
+	{
+		"nombre": "Ruta6",
+		"destinos": [4,5,6],
+		"id": 6
+	}
+]
+	
